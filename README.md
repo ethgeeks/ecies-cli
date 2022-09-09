@@ -6,7 +6,7 @@ Command line utility to encrypt / decrypt string messages with [ECIES](https://e
 
 ## Get help
 
-```bash
+```text
 $ node src/main.js
 Usage: ecies-cli [options] [command]
 
